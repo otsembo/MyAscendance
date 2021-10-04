@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAscendance</string>
+    <string name="net_dialog_title">NETWORK CONNECTION NEEDED</string>
+    <string name="net_dialog_message">For you to use this application you need an active internet connection.
+Check if your WiFi or Data connection is enabled.</string>
+    <string name="logo_title">Welcome to My Ascendance \n Login</string>
+    <string name="remember_me">KEEP ME LOGGED IN</string>
+    <string name="create_account_instead">Don\'t have an account? Create One</string>
+    <string name="login">LOG IN</string>
+</resources>
